@@ -6,7 +6,7 @@ The project uses **R** as the scripting language.
 
 Steps:
 
-* Web scraping, [dataset](http://www.koeri.boun.edu.tr/scripts/lst0.asp)
+* Web scraping, [click here for the dataset](http://www.koeri.boun.edu.tr/scripts/lst0.asp)
 
 * Pre-processing of data
 
